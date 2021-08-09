@@ -1,0 +1,17 @@
+War Game is meant to be a text board game, like the physical one I made in middle school.
+Players will start in landing craft, swim to the beach, move through obstacles while heading to the pill boxes.
+Game ends when the player reaches the coastal town. They win, but war is war.
+
+Gameplay should be simple, but rng is unforgiving.
+Progress will be indicated by points (100 points = win | 0 = lose) 25 points to get to the next stage.
+"Cards" will be random events where points will be given/ lost.
+Each card can give or take 5 points, 25 points will be required to get to the next stage.
+Later on, there might be a gui or turtles to illistate progress and cards.
+
+Each stage will have to be defined, but cards within thse stages will be randomised.  So that players don't go back to a landing craft after clearing a pill box.
+5 cards per stage?  First card on landing craft will be positive (Gate comes down).
+Some of the cards will give choices to the player. Results of those choices should be random.
+One choice might be: There's a jeep 20' away. Results: Jeep starts up, great progress; Jeep does not work, Germans take you out; great loss.
+
+Programming:
+Functions should be used.
